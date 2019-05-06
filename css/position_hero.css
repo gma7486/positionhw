@@ -108,8 +108,7 @@ footer{
     background-color: red;
     font-size: 18px;
     text-transform: uppercase;
-    padding:0 10px 0 3px;
-    margin-right: 16px;
+    text-decoration: none;
     overflow: hidden;
     border: solid 2px transparent;
     border-radius: 15%;
