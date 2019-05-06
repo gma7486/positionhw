@@ -114,3 +114,6 @@ footer{
     border: solid 2px transparent;
     border-radius: 15%;
 }
+.video.text{
+    display: inline-block;
+}
