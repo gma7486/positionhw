@@ -23,7 +23,6 @@ body{
     left: 137px;
     background-color: #ffffff;
     top: 65px;
-    /*max-height: 750px;*/
     z-index: 1;
     padding-bottom: 150px;
 }
@@ -80,10 +79,7 @@ color: #98161b;
     color: #98161b;
     display: block;
 }
-/*.video .text h3{*/
-    /*color: #98161b;*/
-/*font-size: 19px;*/
-/*}*/
+
 body{
     background-image:url("../images/backround_hero_02.png");
     background-repeat: no-repeat;
