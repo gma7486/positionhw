@@ -84,33 +84,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="newproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newproject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newproject" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newproject" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newproject" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
