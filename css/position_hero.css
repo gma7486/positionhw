@@ -43,8 +43,8 @@ body{
 }
 .video section{
     background-color: #e7e7e7;
-    height: 400px;
-    width: 550px;
+    min-height: 400px;
+    max-width: 550px;
     position: relative;
     left: 74px;
 }
