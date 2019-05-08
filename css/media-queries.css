@@ -1,0 +1,46 @@
+
+@media only screen and (max-width: 500px) {
+.video{
+    width: 100%;
+
+}
+    .logo_img{
+        float: none;
+        position: relative;
+        left:160px;
+        width: 300px;
+    }
+    .logo{
+        left: 20px;
+    }
+    .video section{
+        max-width: 200px;
+        height: 182px;
+    }
+    .video p{
+        max-width: 200px;
+    }
+    body{
+        border: none;
+    }
+    .play{
+    background-repeat: no-repeat;
+    }
+    .container{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .logo_img{
+        position: relative;
+        left: 120px;
+    }
+    body{
+        border: none;
+    }
+    .video{
+
+    }
+}
+
